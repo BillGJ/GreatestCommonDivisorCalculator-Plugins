@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ebill/Desktop/UDACITY-CitiScholarship/WebProgramming-Nanodegree(Citi)/7-JavaApplicationDeployment/Lesson3-DependencyManagementWithMaven/starter-plugins-exercise/greatest-common-divisor/src/main/java;C:/Users/ebill/Desktop/UDACITY-CitiScholarship/WebProgramming-Nanodegree(Citi)/7-JavaApplicationDeployment/Lesson3-DependencyManagementWithMaven/starter-plugins-exercise/greatest-common-divisor/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ebill/Desktop/UDACITY-CitiScholarship/WebProgramming-Nanodegree(Citi)/7-JavaApplicationDeployment/Lesson3-DependencyManagementWithMaven/starter-plugins-exercise/greatest-common-divisor/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'greatest-common-divisor 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ebill/Desktop/UDACITY-CitiScholarship/WebProgramming-Nanodegree(Citi)/7-JavaApplicationDeployment/Lesson3-DependencyManagementWithMaven/starter-plugins-exercise/greatest-common-divisor/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'greatest-common-divisor 1.0-SNAPSHOT API'
+com.udacity
+com.udacity.gcd
+'C:/Users/ebill/Desktop/UDACITY-CitiScholarship/WebProgramming-Nanodegree(Citi)/7-JavaApplicationDeployment/Lesson3-DependencyManagementWithMaven/starter-plugins-exercise/greatest-common-divisor/src/main/java/com/udacity/App.java'
+'C:/Users/ebill/Desktop/UDACITY-CitiScholarship/WebProgramming-Nanodegree(Citi)/7-JavaApplicationDeployment/Lesson3-DependencyManagementWithMaven/starter-plugins-exercise/greatest-common-divisor/src/main/java/com/udacity/gcd/GreatestCommonDivisorCalculator.java'
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\src\main\java = 1607282792000
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\generated-sources\annotations = 1658965050646
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\allclasses-index.html = 1660351402046
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\allpackages-index.html = 1660351402051
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\element-list = 1660351401920
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\help-doc.html = 1660351402101
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\index-all.html = 1660351402086
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\index.html = 1660351402022
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\jquery-ui.overrides.css = 1660351402414
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\member-search-index.js = 1660351402065
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\module-search-index.js = 1660351402055
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\overview-summary.html = 1660351402091
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\overview-tree.html = 1660351402014
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\package-search-index.js = 1660351402057
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\script.js = 1660351402137
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\search.js = 1660351402141
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\stylesheet.css = 1660351402114
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\tag-search-index.js = 1660351402068
+C:\Users\ebill\Desktop\UDACITY-CitiScholarship\WebProgramming-Nanodegree(Citi)\7-JavaApplicationDeployment\Lesson3-DependencyManagementWithMaven\starter-plugins-exercise\greatest-common-divisor\target\apidocs\type-search-index.js = 1660351402060
